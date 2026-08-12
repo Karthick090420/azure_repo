@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "ImageId",
+    "ParameterValue": "ami-id"
+  },
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.micro"
+  }
+]
